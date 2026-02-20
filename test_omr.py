@@ -1,4 +1,4 @@
-# test_omr.py
+# test _omr.py
 import json
 from omr_evaluator import evaluate_image
 

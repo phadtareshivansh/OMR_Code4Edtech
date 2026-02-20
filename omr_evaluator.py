@@ -1,5 +1,5 @@
 """
-omr_evaluator.py — Full 100 Questions (A–D only)
+omr_ evaluator.py — Full 100 Questions (A–D only)
 """
 import cv2
 import numpy as np
