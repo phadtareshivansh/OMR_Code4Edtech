@@ -2,5 +2,5 @@ opencv-python-headless
 numpy
 pillow
 streamlit
-panda
+pandas
 openpyxl
